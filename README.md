@@ -10,3 +10,4 @@ Pour tester le code :
 
 Merci de me faire savoir en Issues en cas de problème.
 Vous pouvez donner vos avis à propos de mon code. Et aussi des conseils pour des améliorations.
+signature
